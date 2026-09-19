@@ -36,7 +36,7 @@ export const SITE = {
     'Prompt Station is a marketplace for ready-to-use AI skills — prompt packs and workflow kits that produce high quality work from AI, across business, creative, technical and scientific disciplines.',
 
   /** Canonical site URL — MUST be your production domain (no trailing slash). */
-  url: 'https://YOUR-STORE.netlify.app', // ← REPLACE with your real domain before launch
+  url: 'https://promptstationhq.netlify.app', // ← REPLACE with your real domain before launch
 
   /** Locale of the storefront copy. */
   locale: 'en-US',
