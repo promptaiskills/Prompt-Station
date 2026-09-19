@@ -36,7 +36,7 @@ export const SITE = {
     'Prompt Station is a marketplace for ready-to-use AI skills — prompt packs and workflow kits that produce high quality work from AI, across business, creative, technical and scientific disciplines.',
 
   /** Canonical site URL — MUST be your production domain (no trailing slash). */
-  url: 'https://promptstationhq.netlify.app', // ← REPLACE with your real domain before launch
+  url: 'https://YOUR-STORE.netlify.app', // ← REPLACE with your real domain before launch
 
   /** Locale of the storefront copy. */
   locale: 'en-US',
@@ -72,10 +72,10 @@ export const SITE = {
  * ------------------------------------------------------------------------- */
 export const GUMROAD = {
   /** Your Gumroad username/handle — used only for the store link & examples. */
-  sellerHandle: 'Capitalstance', // ← REPLACE with the handle from your Gumroad URL
+  sellerHandle: 'YOUR_GUMROAD_USERNAME', // ← REPLACE with the handle from your Gumroad URL
 
   /** Link to your Gumroad store page (optional, used in footer/help). */
-  storeUrl: 'https://Capitalstance.gumroad.com', // ← REPLACE
+  storeUrl: 'https://YOUR_GUMROAD_USERNAME.gumroad.com', // ← REPLACE
 
   /** Where buyers access their purchases (do NOT change — this is Gumroad's). */
   libraryUrl: 'https://app.gumroad.com/library',
